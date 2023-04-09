@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Day24(Recycler View)</string>
+    <string name="news0">MI vs CSK Highlights, IPL 2023: Rahane, Jadeja lead Chennai Super Kings to 7-wicket victory vs Mumbai Indians</string>
+    <string name="mi_vs_csk_highlights_ipl_2023_csk_get_7_wicket_victory_vs_mi">MI vs CSK Highlights, IPL 2023: CSK get 7-wicket victory vs MI</string>
+    <string name="image">Image</string>
+
+    <string name="news1">IPL 2023 MI vs CSK preview:
+        The stage is set for the Indian Premier League’s version of the ‘El Clasico’
+        with Mumbai Indians (MI) taking on Chennai Super Kings (CSK) in Mumbai’s Wankhede
+        Stadium in the second game of the Saturday double-header. IPL 2023: Full coverage
+        | Points table | Schedule | Results | Orange Cap | Purple Cap MI and CSK are two of the most decorated teams
+        in the history of the Indian Premier League with nine titles between them, five of which have been won by Mumbai
+        under Rohit Sharma’s leadership. Dhoni, who led Chennai to a runner-up finish in the inaugural edition in 2008 and
+        would go on to win four titles with the ‘Yellow Army’ — the last of which came in 2021, will be hoping to go level
+        with CSK’s eternal rivals in what could be his final season as a player. MI and CSK have also squared off in the final
+        more than any other team — the two sides have met in four finals (2010, 2013, 2015 and 2019), with Mumbai finishing
+        runners-up in 2010 under Sachin Tendulkar’s leadership and winning the remaining ones under Rohit. As for the current
+        season, Mumbai are among the handful of sides who are yet to win a game, having been steamrolled by Royal Challengers
+        Bangalore (RCB) by eight wickets in their opening game at Bengaluru’s M Chinnaswamy Stadium. Chennai, on the other hand,
+        bounced back from a defeat against Gujarat Titans in the season opener with a 12-run win over Lucknow Super Giants (LSG)
+        — in their first match in Chepauk since 2019 — on Monday.
+        Teams: Chennai Super Kings: Devon Conway, Ruturaj Gaikwad, Ajinkya Rahane, Ravindra Jadeja, MS Dhoni(w/c), Shivam Dube,
+        Dwaine Pretorius, Deepak Chahar, Mitchell Santner, Sisanda Magala, Tushar Deshpande
+        Mumbai Indians: Rohit Sharma©, Ishan Kishan(w), Cameron Green, Suryakumar Yadav, Tilak Varma, Tim David, Tristan Stubbs, Arshad Khan,
+        Hrithik Shokeen, Piyush Chawla, Jason Behrendorff</string>
+
+</resources>
